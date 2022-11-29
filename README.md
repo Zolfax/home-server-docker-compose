@@ -4,10 +4,10 @@ Many people have a small home server or a NAS at home and want to know which app
 
 This repository tries to solve this by providing templates for your needs.
 
-Goals:
+#### Goals:
 - Technical configurations of the solutions
 - Only needs docker compose and an underlying linux
 - Automatically upgrades
 
-Out of scope:
+#### Out of scope:
 - Solution configuration 
