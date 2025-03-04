@@ -11,3 +11,4 @@ This repository tries to solve this by providing templates for your needs.
 
 #### Out of scope:
 - Solution configuration 
+
